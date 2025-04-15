@@ -81,7 +81,7 @@ This line chart displays the **percentage share of global CO₂ emissions** cont
 
 ## 🛠 Interactive Features
 
-- **Top N Filter (Right Panel):**  
+- **Top N Filter :**  
   Allows selection of the top N countries or regions based on CO₂ per capita.
 ---
 
@@ -150,11 +150,12 @@ This **choropleth world map** visualizes the **CO₂ emissions per capita** for 
 
 > 🧭 Great for climate impact studies, policy comparison, and educational insights on environmental responsibility across nations.
 - **Visualization Type:** Filled map (choropleth).
-- **Insight:**
-  - The map highlights North America, China, Russia, and parts of the Middle East as major contributors to CO2 emissions.
-  - Countries in Africa and South America show comparatively lower emissions.
-  - The map's color gradient (from blue to red) reveals high per capita emissions in developed and oil-rich nations.
-  - Geographic disparities underline different development trajectories and energy usage patterns.
+
+## 🧠 Insights Gained
+- The map highlights North America, China, Russia, and parts of the Middle East as major contributors to CO2 emissions.
+- Countries in Africa and South America show comparatively lower emissions.
+- The map's color gradient (from blue to red) reveals high per capita emissions in developed and oil-rich nations.
+- Geographic disparities underline different development trajectories and energy usage patterns.
 
 ---
 
@@ -172,13 +173,13 @@ This bubble scatter plot compares **total CO₂ emissions** against **population
 - **X-axis:** Total CO₂ emissions (in thousands of metric tons)
 - **Y-axis:** Population (in millions)
 
-### **Color Gradient (Right Legend)**
+### **Color Gradient **
 - Represents **CO₂ emissions per capita**
 - Scale:  
   - **Purple/Blue** → Low per capita emissions  
   - **Red/Orange** → High per capita emissions
 
-### **Bubble Size (Top Legend)**
+### **Bubble Size **
 - Indicates the **temperature change** attributed to each country
 - Larger circles = Greater climate impact through temperature increase
 
@@ -228,15 +229,10 @@ This chart clearly shows:
 ---
 
 ## 🌍 **Key Outcomes**
-- Produced **three impactful dashboards** that provide different lenses into CO2 emissions data.
+- Produced **three impactful Charts** that provide different lenses into CO2 emissions data.
 - **Discovered anomalies** like high per capita emissions in small countries and declining emissions in formerly industrial giants.
 - Built an interactive **visual narrative** that stakeholders and policy advocates can explore.
 - Improved data visualization and storytelling proficiency in Tableau.
-
----
-
-## 📅 **Conclusion**
-This project demonstrates how powerful visual analytics can turn complex environmental data into clear, actionable insights. The dashboards not only trace the past and present of CO2 emissions but also serve as tools for future planning and awareness. With engaging visuals and a strong analytical foundation, this project showcases advanced Tableau skills and a deep understanding of global environmental trends.
 
 ---
 
@@ -246,5 +242,7 @@ This project demonstrates how powerful visual analytics can turn complex environ
 - Add predictive modeling using Tableau's forecasting tools.
 
 ---
+# Final Dashboard
+
 <img width="1404" alt="Screenshot 2025-04-15 at 2 47 55 PM" src="https://github.com/user-attachments/assets/74577785-b7f7-4531-8c9f-4459e6cb77c8" />
 
